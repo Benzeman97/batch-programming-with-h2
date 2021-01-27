@@ -1,0 +1,9 @@
+spring:
+  batch:
+    job:
+      enabled: false
+
+input:
+   file: classpath:employees.csv
+server:
+  port: 9090
