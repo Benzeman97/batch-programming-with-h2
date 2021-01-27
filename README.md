@@ -1,3 +1,6 @@
+
+
+
 select * from Batch_Job_Execution;
 select * from Batch_Job_Execution_Context;
 
